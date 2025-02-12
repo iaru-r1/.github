@@ -1,1 +1,1 @@
-# Welcome to the IARU Region 1 public repositories
+# Welcome to the IARU Region 1 repositories
